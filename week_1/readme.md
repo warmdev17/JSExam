@@ -3,7 +3,8 @@
 ## Câu 1
 
 - Cho đoạn code xử lí vòng lặp sau:
-  ![Code](./cau1.png)
+
+* ![Code](./cau1.png)
 
 - Yêu cầu: Nhận định "Đoạn code này sẽ in ra lần lượt các số 0, 1, 2" là đúng hay sai? Nếu sai, hãy giải thích nguyên nhân cốt lõi và viết lại đoạn code bằng kiến thức ES6 để chương trình in ra đúng dãy số 0, 1, 2.
 
